@@ -7,14 +7,18 @@ You might be aware that **28th February** is celebrated as **National Science Da
 - I am also sure you must have heard about celebrated **Indian Scientist Sir Chandrasekhara Venkata Raman**. 
 - On this day in **1928**, he discovered a phenomenon of **scattering of photons which was later known as ‘Raman Effect’** after his name. 
 - After two years in 1930, he got Nobel Prize for this remarkable discovery and this was the first Nobel Prize for India in the field of Science. 
+ </b>
 
-## To mark the discovery of his famous phenomenon National Science Day, SPIE-CSIO celebrated this year invited young school minds and utilized the outreach grant to demonstrated these effects, hence acheiving the SPIE vision to sharpen and motivate young minds about the field of light.
+ <p align="center" style="margin-top:10px">
+<b>
+ ## To mark the discovery of his famous phenomenon National Science Day, SPIE-CSIO celebrated this year invited young school minds and utilized the outreach grant to demonstrated these effects, hence acheiving the SPIE vision to sharpen and motivate young minds about the field of light.
 
 
  **Click below to see the demo**
  
 [![](https://github.com/SPIE-CSIO-CHAPTER/National-Science-Day-2022/blob/main/Photo_Gallery/SPIE-CSIO_NSD_22.jpeg)](https://drive.google.com/file/d/1FP7T0sTQZ9RrlC65Gtk88LaB92TPi7mY/view?usp=sharing)
 
+<b>
 ## When was the day declared as National Science Day?
 
 In 1986, the National Council for Science and Technology Communication (NCSTC) asked the Government of India to designate 28 February as National Science Day which the then Govt. of India accepted and declared the day as National Science Day in 1986. The first National Science Day was celebrated on February 28, 1987.
