@@ -10,8 +10,8 @@ You might be aware that **28th February** is celebrated as **National Science Da
 
 ## To mark the discovery of his famous phenomenon National Science Day, SPIE-CSIO celebrated this year invited young school minds and utilized the outreach grant to demonstrated these effects, hence acheiving the SPIE vision to sharpen and motivate young minds about the field of light.
 
-  
-[![](https://github.com/SPIE-CSIO-CHAPTER/National-Science-Day-2022/blob/main/Photo_Gallery/SPIE-CSIO_NSD_22.jpeg)](https://github.com/SPIE-CSIO-CHAPTER/National-Science-Day-2022/blob/main/Photo_Gallery/SPIE-CSIO_NSD_DEMP_1.mp4)
+ 
+[![Click below to see the demo](https://github.com/SPIE-CSIO-CHAPTER/National-Science-Day-2022/blob/main/Photo_Gallery/SPIE-CSIO_NSD_22.jpeg)](https://github.com/SPIE-CSIO-CHAPTER/National-Science-Day-2022/blob/main/Photo_Gallery/SPIE-CSIO_NSD_DEMP_1.mp4)
 
 ## When was the day declared as National Science Day?
 
